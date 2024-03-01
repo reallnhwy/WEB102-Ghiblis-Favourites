@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/QecaHeu' title='Video Walkthrough' width='25' alt='Video Walkthrough' />
+https://www.loom.com/share/ff06712b4cab4a13860e980c8af0a6c0?sid=a7849032-b882-4e96-9029-14fd8de39ad9
 
 ## Notes
 
