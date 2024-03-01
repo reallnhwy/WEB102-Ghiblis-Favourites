@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: "Libre Baskerville", serif;
+  color: #679ac9;
+  /* background: linear-gradient(0deg, rgba(49,102,161,1) 0%, rgba(103,154,201,1) 100%); */
+}
+
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  min-width: 320px;
+  min-height: 100vh;
+  color: white;
+}
+
+.header {
+  width: 100%;
+  max-width: 100vw;
+  height: auto;
+  position: relative;
+}
+
+.App {
+  margin: 0 auto;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  max-width: 100vw;
+  max-height: 100vh;
+  object-fit: contain; /* or object-fit: cover; depending on your preference */
+}
+
+h1 {
+  font-size: 3.8em;
+}
