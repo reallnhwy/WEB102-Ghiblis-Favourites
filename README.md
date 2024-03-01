@@ -26,11 +26,11 @@ Here's a walkthrough of implemented required features:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I was a bit not really familiar with the syntax and how to use props. Therefore, it was confusing at first. However, since it the first project I think it was relatively easy. :) 
 
 ## License
 
-    Copyright [2024] [Ngoc Nhu Y Banh
+    Copyright [2024] [Ngoc Nhu Y Banh]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
