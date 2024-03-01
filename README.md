@@ -2,7 +2,7 @@
 
 Submitted by: **Y Banh**
 
-This web app: **Present 12 top films of Studio Ghibli and links to read more about each film.**
+This web app: **Presents top 12 films of Studio Ghibli and links to read more about each film.**
 
 Time spent: **5** hours spent in total
 
@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/gTyc1jS' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/QecaHeu' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
